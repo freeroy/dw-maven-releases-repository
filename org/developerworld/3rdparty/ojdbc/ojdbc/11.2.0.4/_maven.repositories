@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Nov 01 13:33:28 CST 2015
+ojdbc-11.2.0.4.pom>=
+ojdbc-11.2.0.4-jre5.jar>=
+ojdbc-11.2.0.4-jre6.jar>=

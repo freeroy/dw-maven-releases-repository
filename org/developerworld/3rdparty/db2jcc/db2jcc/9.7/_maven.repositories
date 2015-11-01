@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Nov 01 13:33:31 CST 2015
+db2jcc-9.7.pom>=
+db2jcc-9.7.jar>=
