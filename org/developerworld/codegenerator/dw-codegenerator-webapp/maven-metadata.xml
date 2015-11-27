@@ -3,11 +3,12 @@
   <groupId>org.developerworld.codegenerator</groupId>
   <artifactId>dw-codegenerator-webapp</artifactId>
   <versioning>
-    <release>0.0.2</release>
+    <release>0.0.3</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
+      <version>0.0.3</version>
     </versions>
-    <lastUpdated>20151113075722</lastUpdated>
+    <lastUpdated>20151127062536</lastUpdated>
   </versioning>
 </metadata>
