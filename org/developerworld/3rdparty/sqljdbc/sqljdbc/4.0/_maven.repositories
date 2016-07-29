@@ -1,5 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Nov 01 13:33:30 CST 2015
-sqljdbc-4.0.pom>=
-sqljdbc-4.0-jre6.jar>=
-sqljdbc-4.0-jre5.jar>=
